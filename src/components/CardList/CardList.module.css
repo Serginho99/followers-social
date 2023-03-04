@@ -1,0 +1,11 @@
+.section {
+    padding: 30px;
+}
+.list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
