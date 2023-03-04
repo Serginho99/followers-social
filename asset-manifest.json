@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/followers-social/static/css/main.7acaea2f.css",
+    "main.js": "/followers-social/static/js/main.07d3183d.js",
+    "index.html": "/followers-social/index.html",
+    "main.7acaea2f.css.map": "/followers-social/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/followers-social/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
